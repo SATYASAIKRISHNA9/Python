@@ -89,6 +89,19 @@ expected output is "hi Satya
 ```````````````````````````````
 
 
+We cannot concatinate value with a string we can add 2 strings. Below code throws an error
+
+
+```````````````````````````````
+a = "*" + 10
+```````````````````````````````
+
+
+in this case * is a string and 10 is a value so it cannot do operation on string with a value
+
+
+
+
 
 
 
