@@ -11,4 +11,14 @@ Python Language
   In below example we used an operand + in between. In that place we can use any operand to execute and display.
       print(2 + 5)
 How to print length of a variable?
-      print(len(
+      print(len"abcd")
+      
+How to print a Hi Jack on display?
+ username = input()
+ print("Hi" + " " + "Jack")
+ 
+How can we take particular(3rd) index part in a string?
+  x = "12 * * 34"
+  print(x[4])
+
+  
