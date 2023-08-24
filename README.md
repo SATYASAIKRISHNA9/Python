@@ -67,3 +67,30 @@ BODMAS --> B (Braces) , Order (Like squares, square_root, power of a variable), 
 ``````````````````````
 
 
+
+
+
+## input and output 
+
+String concatenation 
+
+
+``````````````````````````
+username = input()
+print("hi " + username)
+````````````````````````````
+
+
+Input is Satya
+
+
+``````````````````````````````
+expected output is "hi Satya
+```````````````````````````````
+
+
+
+
+
+
+
