@@ -46,12 +46,24 @@ How can we take particular(0th) index part in a string?
 `````````````````````````````````````````````````````
 
 
-Assigning a variable 
+Assigning a variable and mathematical operations on it
 
 
 ```````````````````````````
 a = 2
+print(a)
+expected output --> 2
+a = a + 1
+print(a)
+expected output --> 3
 ```````````````````````````
 
 
-  
+  Order of Operations
+
+
+````````````````
+BODMAS --> B (Braces) , Order (Like squares, square_root, power of a variable), D (Division), M (Multiplication), A (Addition), S (Substraction).
+``````````````````````
+
+
