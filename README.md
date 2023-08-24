@@ -46,4 +46,12 @@ How can we take particular(0th) index part in a string?
 `````````````````````````````````````````````````````
 
 
+Assigning a variable 
+
+
+```````````````````````````
+a = 2
+```````````````````````````
+
+
   
