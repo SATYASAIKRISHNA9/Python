@@ -29,13 +29,19 @@ How to print length of a variable?
 
 
 How to print a Hi Jack on display?
+
+`````````````````````````````````````
  username = input()
  print("Hi" + " " + "Jack")
+`````````````````````````````````````
  
 How can we take particular(0th) index part in a string?
+
+
+````````````````````````````````````````````````````
   x = "12 * * 34"
   print(x[0])  ; # output will be 1 in string "x"
-
+`````````````````````````````````````````````````````
 
 
   
