@@ -124,42 +124,42 @@ print(s)
 Length of a variable 
 
 
-``````````````````````
+````````````````````````````````````
 username = input()
 length = len(username)
 print(length)
-`````````````````````
+````````````````````````````````````````
 
 
 Take input from user
 
 
-````````````````
+```````````````````````````````````
 username = input()
 age = input()
 print(username + "is" + age + "years old")
-```````````````
+`````````````````````````````````````
 
 
 Acessing characters in string
 SATYA is a string. How tool will store this string is below format
 
 
-````````````````
+``````````````````````````````
 S A T Y A
 0 1 2 3 4
-`````````````````
+````````````````````````````````````
 
 
 How to access this values is in below format
 
 
-````````````````````````````
+````````````````````````````````````````````````````````
 a = "Satya"
 first_letter = a[0]
 third_letter = a[2]
 print(first_letter third_letter)
-`````````````````````````````
+````````````````````````````````````````````````````````
 
 
 
