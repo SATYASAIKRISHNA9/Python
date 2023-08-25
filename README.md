@@ -171,6 +171,7 @@ p = 4
 q = 7
 r = ((5+p) < (7-q))
 print(not (r and false))
+#expected output is "True"
 ```````````````````````````````````````````````````````
 
 
