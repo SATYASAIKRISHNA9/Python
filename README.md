@@ -159,6 +159,7 @@ a = "Satya"
 first_letter = a[0]
 third_letter = a[2]
 print(first_letter third_letter)
+#expected output is "S t"
 ````````````````````````````````````````````````````````
 
 
