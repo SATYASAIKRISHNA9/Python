@@ -199,14 +199,131 @@ output: int  [since 10 is an integer type]
 
 Conversions -
 int()  --> converts to integer data type
+
+
 float() --> converts to float data type
+
+
 str() --> converts to string data type
+
+
 bool() --> converts to boolean data type
 
 
 
 ## Relational Operators 
 
+
+Relational operators are used to compare valuses. We will duscuss on this side in next codes.
+
+< - less than
+> - greater than 
+== is equal to
+!= is  not equal to
+>= greater than or equal to
+<= less than or equal to
+
+
+
+```````````````````````
+first_string = input()
+second_string = input()
+```````````````````````
+
+
+## Conditional Loops 
+
+How to use if loop in python?
+
+``````````````````````````````````````
+if condition:
+     <body>
+else :
+     <body>
+``````````````````````````````````````
+
+
+giving an example for reference
+
+
+`````````````````````````````````````````````
+Example 1 :-
+
+
+first_number = int(input())
+
+
+second_number = int(input())
+
+
+if first_number > second_number:
+
+
+      print(greater_number = first_number)
+
+
+else :
+
+
+      print(greater_number = second_number)
+
+
+print(greater_number)
+
+
+\
+
+
+Example 2 :-
+
+
+number = int(input())
+
+
+remainder = number % 2
+
+
+is_even = (remainder = 0)
+
+
+if is_even:
+
+
+     print("given number is even")
+
+
+else :
+
+
+     print("given number is odd")
+`````````````````````````````````````````````
+
+
+## exponential 
+
+
+``````````````````````````````````````````````````````````````````
+print(2*3)
+
+
+output is 6
+
+
+print("2"*3)
+
+
+output is 222
+
+===================================
+how to write an exponential term
+===================================
+
+
+print(2**3)
+
+
+outputs is 8 (2 exponential 3 is 8 = 2 * 2 * 2)
+``````````````````````````````````````````````````````````
 
 
 
