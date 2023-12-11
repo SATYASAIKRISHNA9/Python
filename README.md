@@ -248,53 +248,22 @@ giving an example for reference
 
 `````````````````````````````````````````````
 Example 1 :-
-
-
 first_number = int(input())
-
-
 second_number = int(input())
-
-
 if first_number > second_number:
-
-
       print(greater_number = first_number)
-
-
 else :
-
-
       print(greater_number = second_number)
-
-
 print(greater_number)
 
 
-\
-
-
 Example 2 :-
-
-
 number = int(input())
-
-
 remainder = number % 2
-
-
 is_even = (remainder = 0)
-
-
 if is_even:
-
-
      print("given number is even")
-
-
 else :
-
-
      print("given number is odd")
 `````````````````````````````````````````````
 
@@ -304,24 +273,13 @@ else :
 
 ``````````````````````````````````````````````````````````````````
 print(2*3)
-
-
 output is 6
-
-
 print("2"*3)
-
-
 output is 222
-
 ===================================
 how to write an exponential term
 ===================================
-
-
 print(2**3)
-
-
 outputs is 8 (2 exponential 3 is 8 = 2 * 2 * 2)
 ```````````````````````````````````````````````````````````
 
