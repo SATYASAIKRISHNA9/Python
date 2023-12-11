@@ -189,10 +189,10 @@ output - Ravi
 
 type()
 
-======
+
 input : print(type(10)) 
 output: int  [since 10 is an integer type]
-======
+==
 
 ## Relational Operators 
 
