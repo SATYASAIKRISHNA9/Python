@@ -197,13 +197,12 @@ outputs will give data type of x [whether it is an integer or string or float so
 output: int  [since 10 is an integer type]
 
 
-Conversions
-==
+Conversions -
 int()  --> converts to integer data type
 float() --> converts to float data type
 str() --> converts to string data type
 bool() --> converts to boolean data type
-==
+
 
 
 ## Relational Operators 
