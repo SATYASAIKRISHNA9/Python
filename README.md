@@ -190,9 +190,21 @@ output - Ravi
 type()
 
 
-input : print(type(10)) 
+input : print(type(x))
+outputs will give data type of x [whether it is an integer or string or float something like that]
+
+
 output: int  [since 10 is an integer type]
+
+
+Conversions
 ==
+int()  --> converts to integer data type
+float() --> converts to float data type
+str() --> converts to string data type
+bool() --> converts to boolean data type
+==
+
 
 ## Relational Operators 
 
