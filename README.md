@@ -285,6 +285,40 @@ outputs is 8 (2 exponential 3 is 8 = 2 * 2 * 2)
 
 
 
+# Loops 
+
+
+## While loop
+
+
+```````````````````````````````````````````````````````
+while condition:
+     <body>
+```````````````````````````````````````````````````````
+
+
+````````````````````````````````````````````````````````
+a = int(input())
+counter = 0
+while counter < 3:
+    a = a + 1
+    print(a)
+    counter = counter + 1
+    print("end")
+````````````````````````````````````````````````````````
+
+
+Will see another example as well for while loop
+
+
+````````````````````````````````````````````````````````````
+a = input()
+counter = 0
+length_of_a = len(a)
+while counter < (length_of_a - 1):
+    print (a[counter])
+    counter = counter + 1
+````````````````````````````````````````````````````````````
  
 
 
